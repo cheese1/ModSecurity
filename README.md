@@ -196,9 +196,10 @@ A TODO list is also available as part of the Doxygen documentation.
 
 ### Testing your patch
 
-Along with the manual testing, we strongly recommend you to use the our
+Along with the manual testing, we strongly recommend you to use our
 regression tests and unit tests. If you have implemented an operator, don’t
-forget to create unit tests for it. If you implement anything else, it is encouraged that you develop complimentary regression tests for it.
+forget to create unit tests for it. If you implement anything else, it is 
+encouraged that you develop complimentary regression tests for it.
 
 The regression test and unit test utilities are native and do not demand any
 external tool or script, although you need to fetch the test cases from other
